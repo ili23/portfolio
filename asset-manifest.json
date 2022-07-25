@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.97841b8e.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio/static/css/main.f5df8fb2.css",
+    "main.js": "/portfolio/static/js/main.fea97d9d.js",
+    "static/media/ultimate.JPG": "/portfolio/static/media/ultimate.1c7f02993ee661062308.JPG",
+    "static/media/collegedebt.png": "/portfolio/static/media/collegedebt.e2840fd31471a723999d.png",
+    "static/media/pfp.jpg": "/portfolio/static/media/pfp.910fa7d545eeb1cb1832.jpg",
+    "static/media/yahoo.avif": "/portfolio/static/media/yahoo.3cb3a59f65e229126d8d.avif",
     "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.97841b8e.js.map": "/portfolio/static/js/main.97841b8e.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.f5df8fb2.css.map": "/portfolio/static/css/main.f5df8fb2.css.map",
+    "main.fea97d9d.js.map": "/portfolio/static/js/main.fea97d9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.97841b8e.js"
+    "static/css/main.f5df8fb2.css",
+    "static/js/main.fea97d9d.js"
   ]
 }

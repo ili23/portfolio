@@ -1,0 +1,31 @@
+body{
+    height: auto;
+}
+.container{
+    overflow: hidden;
+}
+img{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+#pfp{
+    height: 80%;
+    border-radius: 10%;
+}
+.columns{
+    height: 95vh;
+    display: flex;
+    align-items: center;
+}
+.text-col{
+    flex-direction: column;
+}
+.head{
+    margin-top: 40vh;
+    text-align: center;
+    font-size: 10vh;
+}
+.subhead{
+    text-align: center;
+    font-size: 4vh;
+}

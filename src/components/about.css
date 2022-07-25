@@ -1,0 +1,23 @@
+.about{
+    height: 80vh;
+    margin-top: 20vh;
+}
+#about-text{
+    margin-bottom: 3vh;
+}
+#ultimate{
+    height: 50vh;
+    margin-bottom: 5vh;
+}
+.row{
+    display: flex;
+    align-items: center;
+}
+.columns-about{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.about-title{
+    margin-bottom: 3vh;
+}
